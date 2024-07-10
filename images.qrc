@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>mainwin.jpg</file>
+    </qresource>
+    <qresource prefix="/new/prefix2">
+        <file>catinLoginPage.jpg</file>
+    </qresource>
+    <qresource prefix="/new/prefix3">
+        <file>captchaCheck.jpg</file>
+    </qresource>
+    <qresource prefix="/new/prefix4">
+        <file>Pinfo.jpg</file>
+    </qresource>
+    <qresource prefix="/new/prefix5"/>
+</RCC>
